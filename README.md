@@ -1,13 +1,15 @@
 # Descripción general: Proyecto CLINICA - FRBA
-Mediante este trabajo práctico se intenta simular la implementación de un nuevo sistema del ramo de la medicina, en donde se aborda la problemática de los afiliados y la implementación de un nuevo módulo que le permita comprar bonos desde cualquier pc, como así también el pedido de turnos para los diferentes profesionales que conforman el staff de la clínica. 
+
+Mediante este trabajo práctico se intentó simular la implementación de un nuevo sistema del ramo de la medicina, en donde se abordó la problemática de los afiliados y la implementación de un nuevo módulo que le permitía comprar bonos desde cualquier pc, como así también el pedido de turnos para los diferentes profesionales que conformaban el staff de la clínica. 
 La implementación de dicho sistema requirió realizar la migración de los datos que se tenían hasta el momento en el sistema anterior.
 Es para ello que se necesitó que se reformularan los procesos y el diseño de la base de datos para que cumpla con las nuevas restricciones.
 
 # Componentes del TP
 
 ## Aplicación Desktop
+
 La aplicación es del tipo Desktop desarrollada sobre C# con Visual Studio 2012 y Framework de .NET 4.5.
-Esta aplicación teiene diversas pantallas, reportes y formularios que permitirán interactuar, cargar y visualizar la información de la base de datos de SQL Server.
+Esta aplicación tiene diversas pantallas, reportes y formularios que permiten interactuar, cargar y visualizar la información de la base de datos de SQL Server.
 Las funcionalidades que se han desarrollado:
 1. Abm de Rol .
 2. Login y seguridad .
@@ -26,6 +28,7 @@ Las funcionalidades que se han desarrollado:
   * De parte del afiliado.
 
 ## Base de Datos
+
 Se crea un modelo de datos que organice y normalice los datos de la única tabla existente. 
 Este modelo de datos incluye:
 * Creación de esquema correspondiente.
@@ -37,4 +40,5 @@ Este modelo de datos incluye:
 * Inserción de datos no incluidos en la tabla maestra que sean necesarios para el funcionamiento de la aplicación desktop, como por ejemplo, los roles.
 
 #Sobre mi
+
 En este trabajo práctico realizado para la materia Gestión de Datos en 2016, participé activamente en el desarrollo de la interfaz de usuario de la aplicación desktop, diseñando y programando la mayoría de las pantallas en C# con .NET. También implementé consultas SQL desde C# para recuperar y mostrar datos en la aplicación. A través de este proyecto, adquirí experiencia en el desarrollo de aplicaciones desktop, integración de C# con bases de datos SQL Server y la construcción de consultas básicas. Además, aprendí sobre el diseño y la gestión de bases de datos relacionales, comprendiendo conceptos como normalización, claves primarias y foráneas, y restricciones.
