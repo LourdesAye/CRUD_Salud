@@ -1,0 +1,57 @@
+
+
+Se detallana los 4 puntos que nos pidieron que se corrijan.
+
+
+a) Migración de datos E/MB/B/R/M
+Debe migrar la agenda.
+-->SE MIGRO LA TABLA AGENDA
+
+Abm de Afiliado E/MB/B/R/M
+Al intentar crear un afiliado el sistema no realiza ninguna acción
+--> SE CORRIGIO 
+
+Registrar Agenda E/MB/B/R/M
+Al intentar registrar una agenda el sistema arroja el siguiente error:" Desbordamiento de SqlDateTime. Debe estar entre 1/1/1753 12:00:00 AM y 12/31/9999 11:59:59 PM."
+AccesoBaseDeDatos.cs linea92
+
+--> SE CORRIGIO 
+
+Compra de Bonos E/MB/B/R/M
+Al intentar comprar un bono el sistema arroja que se existe el código del afiliado.
+
+--> SE MEJORO EL MODULO DE COMPRA DE BONO, Y SE CORRIGIO ESTE ERROR
+
+
+
+MAIL RECIBIDO
+
+---------------------------------------------------------------------------------------------------------------
+
+
+From: Gestion de datos Utnfrba <gestiondedatos.entregas@gmail.com>
+Sent: Tuesday, November 15, 2016 6:21 PM
+To: Pedro Enrique Droven
+Subject: Re: TP1C2016 K3073 MEDGOOD 11
+ 
+Hola.
+
+Su Trabajo de Gestión de Datos ha sido corregido.
+No cumplen con los requisitos de aprobación.
+
+Su TP presenta los siguientes problemas:
+Migración de datos
+E/MB/B/R/M
+Debe migrar la agenda.
+
+Abm de Afiliado  E/MB/B/R/M
+Al intentar crear un afiliado el sistema no realiza ninguna acción
+
+Registrar Agenda  E/MB/B/R/M
+Al intentar registrar una agenda el sistema arroja el siguiente error:" Desbordamiento de SqlDateTime. Debe estar entre 1/1/1753 12:00:00 AM y 12/31/9999 11:59:59 PM."
+AccesoBaseDeDatos.cs linea92
+
+Compra de Bonos  E/MB/B/R/M
+Al intentar comprar un bono el sistema arroja que se existe el código del afiliado.
+
+No se continuó con las pruebas debido a errores anteriores.

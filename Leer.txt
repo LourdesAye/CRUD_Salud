@@ -1,0 +1,15 @@
+Grupo: MEDGOOD 
+
+INTEGRANTES
+Pedro Droven 125.907-6 (pedrodroven@hotmail.com)
+Agustín Cipriano 146.703-7
+Alejandro Otero 146.820-0
+Lourdes González 144.333-1
+
+La carpeta enviada por nuestro grupo incluye:
+
+data: Carpeta que contiene  el script de migracion inicial.
+src: Codigo del aplicativo Clinica FRBA
+DER_MedGood.jpg : El DER de nuestra DB
+MEDGOOD_Estrategia.pdf: Documento sobre la estrategia tomada para la realizacion del TP.
+
